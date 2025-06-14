@@ -2,6 +2,11 @@
 
 Presentations given by members of North Pole Security
 
+## 2025
+
+**Conference:** [MacDevOpsYVR 2025](./MacDevOpsYVR2025/santa.pdf)
+**Presenters:** Rusell Hancox
+
 ## 2024
 
 ### MacSysAdmins Sweden
