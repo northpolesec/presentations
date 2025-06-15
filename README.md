@@ -8,7 +8,7 @@ Presentations given by members of North Pole Security
 
 #### Santa in the Summer
 
-**Presenter:** Rusell Hancox
+**Presenter:** Russell Hancox
 - [Slides](./MacDevOpsYVR2025/santa.pdf)
 
 ## 2024
